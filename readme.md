@@ -1,7 +1,7 @@
 #Hi! I'm Alex 👋
 ---
 
-- 🔭 I’m currently working on as a Web application developer at Steadfast Collective
+- 🔭 I’m currently working as a Web application developer at Steadfast Collective
 - 🌱 I’m currently learning **Nuxt.js**
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about plants 🪴
