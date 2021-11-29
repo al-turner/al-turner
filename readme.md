@@ -1,4 +1,4 @@
-#Hi! I'm Alex 👋
+Hi! I'm Alex 👋
 ---
 
 - 🔭 I’m currently working as a Web Application Developer at Steadfast Collective
