@@ -16,6 +16,12 @@ Ask me about plants. 🪴
 
 [More experiments](https://al-turner.com/experiments/)
 
+### Contribution Crop Circles
+
+<a href="https://al-turner.com/journal/crop-circles/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/al-turner/al-turner/output/contribution-crop-circles-still.webp"><img src="https://raw.githubusercontent.com/al-turner/al-turner/output/contribution-crop-circles.svg" width="100%" alt="My last year of contributions as a wheat field. At night a light glides over it and each busy day lies down in a small circle, the graph parting around a clearing. In the clearing the light draws a crop circle with twelve circles sized by each slice of the year, and dawn shows it all in gold."></picture></a>
+
+My last year of contributions, redrawn daily. Each of the twelve circles is a slice of the year.
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wire-dark.svg"><img src="assets/wire-light.svg" width="100%" height="58" alt=""></picture>
 
 [Journal](https://al-turner.com/journal/) · [LinkedIn](https://www.linkedin.com/in/al-turner/) · [Email](mailto:alexhenryturner@gmail.com)
