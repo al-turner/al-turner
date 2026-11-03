@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 58" preserveAspectRatio="none" role="presentation">
+<style>
+path{fill:none;stroke:#8fa0bd;vector-effect:non-scaling-stroke;animation:s 17s infinite}
+@keyframes s{0%{transform:scaleY(1);animation-timing-function:steps(86,end)}42%{transform:scaleY(1.1);animation-timing-function:steps(37,end)}60%{transform:scaleY(.95);animation-timing-function:steps(37,end)}78%{transform:scaleY(1.02);animation-timing-function:steps(45,end)}100%{transform:scaleY(1)}}
+@media (prefers-reduced-motion:reduce){path{animation:none}}
+</style>
+<g transform="translate(0 4)"><path stroke-width="1" style="animation-delay:-1s" d="M0 0Q440 41.6 880 0"/></g>
+<g transform="translate(0 10)"><path stroke-width="1" style="animation-delay:-2.25s" d="M0 0Q440 45.26 880 -1"/></g>
+<g transform="translate(0 20)"><path stroke-width="1.5" style="animation-delay:-3.5s" d="M0 0Q440 51 880 -2"/></g>
+</svg>
